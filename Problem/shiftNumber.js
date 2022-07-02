@@ -26,4 +26,6 @@ let n = arr.length;
 rearrange(arr, n);
 printArray(arr, n);
 //console.log(arr);
+
+//it's not work--------------------------------------------------
  
