@@ -7,3 +7,12 @@ for(let i = 0; i < arr.length;i++){
     }
 }
 console.log(sum);
+
+
+// let arr = [[1,2,3],[3,4,5]];
+
+// arr.forEach((Element,i)=>{
+//   Element.forEach((element)=>{
+//     console.log(element);
+//   })
+// })
