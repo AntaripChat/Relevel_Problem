@@ -10,3 +10,4 @@ let Arr = [2,3,4,5];
 let n = Arr.length;
 
 console.log(Sum(Arr,n));
+
