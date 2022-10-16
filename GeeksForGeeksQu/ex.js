@@ -10,3 +10,5 @@ for(let i = n-1 ; i > 0 ; i--){
 }
 arr[0] = e;
 console.log(arr);
+
+//__
